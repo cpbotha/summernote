@@ -1,3 +1,20 @@
+# NOTE
+
+This is a temporary fork by cpbotha to make available an NPM-able
+package with dist files that contain the fix for the webpack errors
+with summernote 0.8.1.
+
+https://github.com/summernote/summernote/issues/1723 has more detailed
+information.  When applying webpack to summernote 0.8.1, we see errors
+like this:
+
+```
+WARNING in ./~/summernote/dist/summernote.js
+Critical dependencies:
+398:8-15 require function is used in a way in which dependencies cannot
+be statically extracted"
+```
+
 # Summernote
 
 Super simple WYSIWYG Editor.
