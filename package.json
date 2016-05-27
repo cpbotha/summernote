@@ -1,5 +1,5 @@
 {
-  "name": "summernote",
+  "name": "summernote-webpack-fix",
   "description": "Super simple WYSIWYG editor",
   "version": "0.8.2",
   "license": "MIT",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/summernote/summernote.git"
+    "url": "https://github.com/cpbotha/summernote.git"
   },
   "author": {
     "name": "hackerwins",
