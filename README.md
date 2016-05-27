@@ -15,6 +15,8 @@ Critical dependencies:
 be statically extracted"
 ```
 
+As soon as summernote 0.8.2 lands on npmjs, this fork should be ignored.
+
 # Summernote
 
 Super simple WYSIWYG Editor.
